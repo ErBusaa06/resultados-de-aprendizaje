@@ -22,12 +22,6 @@ El proyecto se organiza dentro de la carpeta principal:
 - Navegación entre diferentes apartados del proyecto
 - Estructura modular y organizada
 
-## Capturas de pantalla
-*(Añade tus imágenes dentro de la carpeta /imagenes y actualiza los nombres)*
-
-![Vista previa](imagenes/captura1.png)
-![Ejemplo de sección](imagenes/captura2.png)
-
 ## Cómo usar el proyecto
 1. Clona el repositorio o descárgalo.
 2. Abre el archivo **formacion_profesional.html** desde la carpeta `public_html/pagina web/`.
